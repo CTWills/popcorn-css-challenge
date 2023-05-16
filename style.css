@@ -27,6 +27,7 @@ main {
     height: 500px;
 }
 
-.page {
+div {
     background-color: white;
+    margin: 0%;
 }
