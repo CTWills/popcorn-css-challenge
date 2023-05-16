@@ -19,6 +19,10 @@ button {
     margin-inline-start: 2%;
 }
 
+#tableButton {
+    align-self: center;
+}
+
 #home {
     margin-inline-start: 12%;
 }
